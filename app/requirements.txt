@@ -1,0 +1,14 @@
+flask
+flask-cors
+torch
+numpy
+opencv-python
+librosa
+mediapipe
+transformers
+spacy
+whisper
+soundfile
+ffmpeg-python
+PyAudio
+requests
